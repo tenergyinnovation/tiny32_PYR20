@@ -1,0 +1,17 @@
+{
+  "name": "tiny32_PYR20,
+  "keywords": "FreeRTOS, ESP32, frameworks",
+  "description": "tiny32_PYR20 Library",
+  "homepage": "https://www.tenergyinnovation.co.th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tenergyinnovation/tiny32_PYR20
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "tiny32_PYR20,
+    "url": "https://github.com/tenergyinnovation/"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp32"
+}
